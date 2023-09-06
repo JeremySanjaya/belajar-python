@@ -1,2 +1,7 @@
-countries = ['United Kingdom', 'Ghana', 'Nigeria', 'Australia', 'New Zealand']
-print(len(countries))
+a = True
+b = 5
+
+if a == b:
+    print('A equals B')
+else:
+    print('A not equals B')
