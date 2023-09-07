@@ -1,7 +1,7 @@
-a = True
-b = 5
-
-if a == b:
-    print('A equals B')
-else:
-    print('A not equals B')
+my_dict = {
+    'name': 'Jeremy',
+    'name2': 'Tim',
+    'nationality': 'Indonesia',
+    'Qualifacation': 'Japan'
+}
+print(len(my_dict))
